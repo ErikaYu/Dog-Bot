@@ -32,8 +32,10 @@ Tools:</br>
 <li>Soldering iron</li></br></ul>
 
 # Build Instructions
+For now, the build I will be using to create the Servo is one I got from the makezine site created by Charles Platt.
 # Firmware Installation
 # Usage
 # Team
 The build team consists of Erika Yu.
 # Credits
+<ul><li>Charles Platt</li></ul>
