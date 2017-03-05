@@ -3,6 +3,13 @@ All the files for CS207
 The purpose of my project is to program a robotic figure made from parts to do certain tricks when exposed to light for a duration of time.
 //PICTURE OF COMPLETED PROJECT//
 # Repository Contents
+<ul>    <li>/build- all coding files</li>
+        <li>/hardware- file including design files and 3-D models</li>
+        <li>/img- images file</li>
+        <li>/examples- file with codes to check if hardware works</li>
+        <li>/src- source code file</li>
+        <li>/LICENSE- license file</li>
+        <li>/README.md- this file</li>
 # Requirements and Materials
 Bill of Materials:</br>
 <ul><li>Breadboard, solderless (such as Maker Shed item #MKEL3 or MKKN3)</li></br>
